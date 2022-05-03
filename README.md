@@ -2,7 +2,7 @@
 
 اول با یه عکس کس شروع میکنیم
 
-[دیدن کس](https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220503_021820_507.jpg)
+<img src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220503_021820_507.jpg">
 
 خب حالا یه ممه ببینیم
 
