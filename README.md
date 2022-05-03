@@ -1,11 +1,10 @@
 <center>
 <b>خب گیت هابو تبدیل به پورن هاب میکنیم</b>
- <b>اول با یه عکس کس شروع میکنیم<b>
-</center>
+<b>اول با یه عکس کس شروع میکنیم<b>
+
 
 <img src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220503_021820_507.jpg">
 
-<center>
 <b>خب حالا یه ممه ببینیم<b>
 </center>
 
