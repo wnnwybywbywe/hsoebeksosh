@@ -9,7 +9,7 @@
 <html>
 <body>
 
-<video controls loop width="300" height="190">
+<video controls loop width="100" height="190">
  <source src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220422_034438_870.mp4" type="video/m<html>
 <body>
 
@@ -18,5 +18,5 @@
 </video>
 
 </body>
-</html>p4">
+</html>
 </video>
