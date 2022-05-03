@@ -18,4 +18,3 @@
 
 </body> 
 </html>
-[دیدن ممه](https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220422_034438_870.mp4)
