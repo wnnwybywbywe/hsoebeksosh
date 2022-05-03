@@ -8,7 +8,7 @@
 
 <img src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220503_021820_507.jpg">
 
-
+<center>
 <b>خب حالا یه ممه ببینیم<b>
 </center>
 
