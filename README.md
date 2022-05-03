@@ -1,9 +1,8 @@
 <body>
-   <b>خب گیت هابو تبدیل به پورن هاب میکنیم</b>
-   </body>
-
-
-خب گیت هابو تبدیل به پورن هاب میکنیم
+<center>
+<b>خب گیت هابو تبدیل به پورن هاب میکنیم</b>
+</center>
+</body>
 
 اول با یه عکس کس شروع میکنیم
 
@@ -11,12 +10,6 @@
 
 خب حالا یه ممه ببینیم
  
-<html>
-<body>
-
 <video controls loop autoplay width="200" height="230">
  <source src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220422_034438_870.mp4" type="video/mp4">
 </video>
-
-</body>
-</html>
