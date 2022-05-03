@@ -10,7 +10,7 @@
 <html>
 <body>
 
-<video controls loop width="200" height="230">
+<video controls loop width="400" height="230">
  <source src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220422_034438_870.mp4" type="video/mp4">
 </video>
 
