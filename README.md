@@ -5,16 +5,18 @@
 <img src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220503_021820_507.jpg">
 
 خب حالا یه ممه ببینیم
-
-<!DOCTYPE html> 
-<html> 
-<body> 
  
-<video width="400" controls>
-  <source src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220422_034438_870.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
+<html>
+<body>
+
+<video controls loop width="300" height="190">
+ <source src="https://github.com/wnnwybywbywe/hsoebeksosh/raw/main/IMG_20220422_034438_870.mp4" type="video/m<html>
+<body>
+
+<video controls loop width="300" height="190">
+ <source src="files/demo.mp4" type="video/mp4">
 </video>
 
-</body> 
-</html>
+</body>
+</html>p4">
+</video>
